@@ -1,0 +1,9 @@
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\bin\Debug\netcoreapp3.1\Permissions.DAL.deps.json
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\bin\Debug\netcoreapp3.1\Permissions.DAL.dll
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\bin\Debug\netcoreapp3.1\Permissions.DAL.pdb
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.csprojAssemblyReference.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.AssemblyInfo.cs
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.dll
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.DAL\obj\Debug\netcoreapp3.1\Permissions.DAL.pdb

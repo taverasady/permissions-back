@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MSI GAMING GL62\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MSI GAMING GL62\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

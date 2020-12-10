@@ -1,0 +1,15 @@
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.BL.deps.json
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.BL.dll
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.BL.pdb
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.DAL.dll
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.DAL.pdb
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.csprojAssemblyReference.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.AssemblyInfoInputs.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.AssemblyInfo.cs
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.csproj.CopyComplete
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.dll
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.pdb
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.BL.runtimeconfig.json
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\bin\Debug\netcoreapp3.1\Permissions.BL.runtimeconfig.dev.json
+C:\Users\MSI GAMING GL62\Source\Repos\Permissions\Permissions.BL\obj\Debug\netcoreapp3.1\Permissions.BL.genruntimeconfig.cache
